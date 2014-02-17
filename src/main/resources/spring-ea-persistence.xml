@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:tx="http://www.springframework.org/schema/tx" xmlns:jee="http://www.springframework.org/schema/jee"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+       http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd
+       http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-3.0.xsd
+       http://www.springframework.org/schema/jee http://www.springframework.org/schema/jee/spring-jee-3.0.xsd">
+	       
+	<bean id="eaSessionFactory"
+		class="org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean">
+		<property name="dataSource">
+			<ref bean="eaDataSource" /><!-- eaDataSource ,proxoolDataSource -->
+		</property>
+		<property name="packagesToScan">
+			<list>
+				<value>com.app</value>
+			</list>
+		</property>
+		<property name="hibernateProperties">
+			<props>
+				<prop key="hibernate.dialect">${ea.hibernate.dialect}</prop>
+				<prop key="hibernate.jdbc.fetch_size">${ea.hibernate.jdbc.fetch_size}</prop>
+				<prop key="hibernate.cache.use_query_cache">${ea.hibernate.cache.use_query_cache}</prop>
+				<prop key="hibernate.cache.use_second_level_cache">${ea.hibernate.cache.use_second_level_cache}</prop>
+				<prop key="hibernate.cache.provider_class">org.hibernate.cache.EhCacheProvider</prop>
+				<prop key="hibernate.show_sql">${ea.hibernate.show_sql}</prop>
+				<prop key="hibernate.hbm2ddl.auto">${ea.hibernate.hbm2ddl}</prop>
+				<!-- <prop key="hibernate.connection.provider_class">org.hibernate.connection.ProxoolConnectionProvider</prop> 
+					<prop key="hibernate.proxool.pool_alias">dbpool</prop> <prop key="hibernate.proxool.xml">Proxool.xml</prop> -->
+
+			</props>
+		</property>
+	</bean>
+
+	<bean id="eaDataSource" class="org.apache.commons.dbcp.BasicDataSource"
+		destroy-method="close">
+		<property name="driverClassName">
+			<value>${ea.jdbc.driver}</value>
+		</property>
+		<property name="url">
+			<value>${ea.jdbc.url}</value>
+		</property>
+		<property name="username">
+			<value>${ea.jdbc.username}</value>
+		</property>
+		<property name="password">
+			<value>${ea.jdbc.password}</value>
+		</property>
+		<property name="maxIdle">
+			<value>${ea.jdbc.maxIdle}</value>
+		</property>
+		<property name="maxWait">
+			<value>${ea.jdbc.maxWait}</value>
+		</property>
+		<property name="maxActive">
+			<value>${ea.jdbc.maxActive}</value>
+		</property>
+	</bean>
+
+	<!-- Service -->
+	<!--基础服务接口部分 -->
+	<bean id="eaTransactionManager"
+		class="org.springframework.orm.hibernate3.HibernateTransactionManager">
+		<property name="sessionFactory">
+			<ref bean="eaSessionFactory" />
+		</property>
+	</bean>
+
+	<bean id="eaDaoTarget" class="com.app.common.spring.ssh.dao.BaseDaoHibernate">
+		<property name="sessionFactory">
+			<ref bean="eaSessionFactory" />
+		</property>
+	</bean>
+	<!-- 事务控制拦截器 -->
+	<bean name="eaTransactionInterceptor"
+		class="org.springframework.transaction.interceptor.TransactionInterceptor">
+		<property name="transactionManager" ref="eaTransactionManager" />
+		<property name="transactionAttributes">
+			<props>
+				<prop key="create*">PROPAGATION_REQUIRED</prop>
+				<prop key="update*">PROPAGATION_REQUIRED</prop>
+				<prop key="delete*">PROPAGATION_REQUIRED</prop>
+				<prop key="save*">PROPAGATION_REQUIRED</prop>
+				<prop key="list*">PROPAGATION_REQUIRED</prop>
+				<prop key="get*">PROPAGATION_REQUIRED</prop>
+				<prop key="find*">PROPAGATION_REQUIRED</prop>
+				<prop key="*">PROPAGATION_REQUIRED</prop>
+			</props>
+		</property>
+	</bean>
+	
+	<bean name="eaAutoProxy"
+		class="org.springframework.aop.framework.autoproxy.BeanNameAutoProxyCreator">
+		<property name="beanNames">
+			<list>
+				<value>eaDaoTarget</value>
+				<value>eaBaseDao</value>
+			</list>
+		</property>
+		<property name="interceptorNames">
+			<list>
+				<value>eaTransactionInterceptor</value>
+			</list>
+		</property>
+	</bean>
+	
+	
+	
+</beans>

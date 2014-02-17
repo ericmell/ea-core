@@ -1,0 +1,25 @@
+apache_home=D:/train/soft/s-Apache2.2/
+svn_repo_name=train
+svn_admin_username=admin
+svn_admin_passwd=admin
+
+
+
+# Memcached configuration
+# ~~~~~ 
+# Enable memcached if needed. Otherwise a local cache is used.
+#memcached=enabled
+memcached=disabled
+
+#
+# Specify memcached host (default to 127.0.0.1:11211)
+memcached.host=127.0.0.1:11211
+#memcached.host=10.200.25.174:11211
+#memcached.host=localhost:11211
+
+#
+# Or you can specify multiple host to build a distributed cache
+#memcached.1.host=127.0.0.1:11211
+#memcached.2.host=127.0.0.1:11212
+#memcached.1.host=10.200.5.134:11211
+#memcached.2.host=10.200.25.174.:11211

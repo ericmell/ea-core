@@ -1,0 +1,13 @@
+[groups]
+base-common-137= jiangpeng,chenyongxiong,liuhuiping,huangjunhui,chenzhijian,wanghaiming,
+ea-138=wanghaiming,
+ea-core-139=chenyongxiong,wanghaiming,
+ea-oa-140=chenyongxiong,
+[train:/internal/ea/base-common]
+ @base-common-137=rw
+[train:/internal/ea/ea]
+ @ea-138=rw
+[train:/internal/ea/ea-core]
+ @ea-core-139=rw
+[train:/internal/ea/ea-oa]
+ @ea-oa-140=rw

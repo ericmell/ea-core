@@ -1,0 +1,685 @@
+5455 [main] DEBUG com.app.ParentTest - 初始化完毕:
+5502 [main] DEBUG com.app.ParentTest - 运行完毕
+6376 [main] DEBUG com.app.ParentTest - 初始化完毕:
+6424 [main] DEBUG com.app.ParentTest - 运行完毕
+5442 [main] DEBUG com.app.ParentTest - 初始化完毕:
+5490 [main] DEBUG com.app.ParentTest - 运行完毕
+5684 [main] DEBUG com.app.ParentTest - 初始化完毕:
+5684 [main] DEBUG com.app.EaCoreTest - admin resource numbers:
+5684 [main] DEBUG com.app.ParentTest - 运行完毕
+4002 [main] DEBUG com.app.ParentTest - 初始化完毕:
+4033 [main] DEBUG com.app.EaCoreTest - admin resource numbers:null
+4033 [main] DEBUG com.app.ParentTest - 运行完毕
+4827 [main] DEBUG com.app.ParentTest - 初始化完毕:
+4858 [main] DEBUG com.app.EaCoreTest - admin resource numbers:null
+4858 [main] DEBUG com.app.ParentTest - 运行完毕
+5034 [main] DEBUG com.app.ParentTest - 初始化完毕:
+5065 [main] DEBUG com.app.EaCoreTest - admin resource numbers:null
+5081 [main] DEBUG com.app.ParentTest - 运行完毕
+4638 [main] DEBUG com.app.ParentTest - 初始化完毕:
+4669 [main] DEBUG com.app.EaCoreTest - admin resource numbers:null
+4669 [main] DEBUG com.app.ParentTest - 运行完毕
+5387 [main] DEBUG com.app.ParentTest - 初始化完毕:
+5434 [main] DEBUG com.app.EaCoreTest - admin resource numbers:null
+5434 [main] DEBUG com.app.ParentTest - 运行完毕
+4200 [main] DEBUG com.app.ParentTest - admin resource numbers:null
+4216 [main] DEBUG com.app.ParentTest - 初始化完毕:
+4216 [main] DEBUG com.app.EaCoreTest - admin resource numbers:null
+4216 [main] DEBUG com.app.ParentTest - 运行完毕
+4029 [main] INFO  com.app.SpringDaoTest - 测试结束
+5997 [main] INFO  com.app.SpringDaoTest - 测试结束
+4794 [main] INFO  com.app.SpringDaoTest - 测试结束
+4153 [main] INFO  com.app.SpringDaoTest - 测试结束
+4951 [main] INFO  com.app.SpringDaoTest - 测试结束
+4358 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+4671 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 number:1
+4671 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:7
+4687 [main] INFO  com.app.SpringDaoTest - 测试结束
+4638 [main] INFO  com.app.SpringDaoTest - 测试结束
+4357 [main] DEBUG com.app.SpringDaoTest - admin resource numbers:null
+4357 [main] INFO  com.app.SpringDaoTest - 测试结束
+4748 [main] DEBUG com.app.SpringDaoTest - admin user 个数:2
+4780 [main] DEBUG com.app.SpringDaoTest - admin user:null
+4796 [main] INFO  com.app.SpringDaoTest - 测试结束
+4702 [main] DEBUG com.app.SpringDaoTest - admin user 个数:2
+4749 [main] DEBUG com.app.SpringDaoTest - admin user:null
+4749 [main] INFO  com.app.SpringDaoTest - 测试结束
+3904 [main] DEBUG com.app.SpringDaoTest - admin user 个数:2
+3920 [main] DEBUG com.app.SpringDaoTest - admin user:null
+3920 [main] INFO  com.app.SpringDaoTest - 测试结束
+5747 [main] DEBUG com.app.SpringDaoTest - admin user 个数:2
+81329 [main] DEBUG com.app.SpringDaoTest - admin user:null
+81329 [main] INFO  com.app.SpringDaoTest - 测试结束
+4138 [main] DEBUG com.app.SpringDaoTest - admin user 个数:2
+4154 [main] DEBUG com.app.SpringDaoTest - admin user:null
+4171 [main] DEBUG com.app.SpringDaoTest - tom
+4171 [main] INFO  com.app.SpringDaoTest - 测试结束
+3754 [main] DEBUG com.app.ParentTest - admin resource numbers:null
+3770 [main] DEBUG com.app.ParentTest - 初始化完毕:
+3786 [main] DEBUG com.app.EaCoreTest - admin resource numbers:null
+3786 [main] DEBUG com.app.ParentTest - 运行完毕
+5340 [main] DEBUG com.app.ParentTest - 初始化完毕:
+11503 [main] DEBUG com.app.EaCoreTest - admin resource numbers:null
+11503 [main] DEBUG com.app.ParentTest - 运行完毕
+3936 [main] DEBUG com.app.SpringDaoTest - admin user 个数:3
+3967 [main] DEBUG com.app.SpringDaoTest - admin user:null
+3984 [main] DEBUG com.app.SpringDaoTest - tom
+3984 [main] INFO  com.app.SpringDaoTest - 测试结束
+5340 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+11737 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 number:1
+11737 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:7
+11769 [main] DEBUG com.app.SpringDaoTest - admin user 个数:2
+11816 [main] DEBUG com.app.SpringDaoTest - admin user:com.app.manager.ea.model.User@1748ba4[id=1]
+11832 [main] DEBUG com.app.SpringDaoTest - tom
+11832 [main] INFO  com.app.SpringDaoTest - 测试结束
+4014 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+4327 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 number:1
+4327 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:7
+4327 [main] DEBUG com.app.ParentTest - 初始化完毕:
+4374 [main] DEBUG com.app.EaCoreTest - admin resource numbers:com.app.manager.ea.model.User@1422384[id=1]
+4374 [main] DEBUG com.app.ParentTest - 运行完毕
+4326 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+4701 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 number:1
+4701 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:7
+4701 [main] DEBUG com.app.ParentTest - 初始化完毕:
+4733 [main] DEBUG com.app.EaCoreTest - admin resource numbers:com.app.manager.ea.model.User@1422384[id=1]
+4748 [main] DEBUG com.app.EaCoreTest - admin resource numbers:7
+4748 [main] DEBUG com.app.ParentTest - 运行完毕
+4267 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+4673 [main] ERROR o.h.util.JDBCExceptionReporter - Unique index or primary key violation: "PRIMARY_KEY_C9 ON PUBLIC.MANAGER_EA_RESOURCE_USER(RESOURCE_ID, USER_ID)"; SQL statement:
+insert into manager_ea_resource_user (resource_id, user_id) values (?, ?) [23505-167]
+4673 [main] ERROR o.h.util.JDBCExceptionReporter - Unique index or primary key violation: "PRIMARY_KEY_C9 ON PUBLIC.MANAGER_EA_RESOURCE_USER(RESOURCE_ID, USER_ID)"; SQL statement:
+insert into manager_ea_resource_user (resource_id, user_id) values (?, ?) [23505-167]
+4689 [main] ERROR o.h.e.d.AbstractFlushingEventListener - Could not synchronize database state with session
+org.hibernate.exception.ConstraintViolationException: Could not execute JDBC batch update
+	at org.hibernate.exception.SQLStateConverter.convert(SQLStateConverter.java:96) ~[hibernate-core-3.6.1.Final.jar:3.6.1.Final]
+	at org.hibernate.exception.JDBCExceptionHelper.convert(JDBCExceptionHelper.java:66) ~[hibernate-core-3.6.1.Final.jar:3.6.1.Final]
+	at org.hibernate.jdbc.AbstractBatcher.executeBatch(AbstractBatcher.java:275) ~[hibernate-core-3.6.1.Final.jar:3.6.1.Final]
+	at org.hibernate.engine.ActionQueue.executeActions(ActionQueue.java:268) ~[hibernate-core-3.6.1.Final.jar:3.6.1.Final]
+	at org.hibernate.engine.ActionQueue.executeActions(ActionQueue.java:187) ~[hibernate-core-3.6.1.Final.jar:3.6.1.Final]
+	at org.hibernate.event.def.AbstractFlushingEventListener.performExecutions(AbstractFlushingEventListener.java:321) ~[hibernate-core-3.6.1.Final.jar:3.6.1.Final]
+	at org.hibernate.event.def.DefaultFlushEventListener.onFlush(DefaultFlushEventListener.java:51) [hibernate-core-3.6.1.Final.jar:3.6.1.Final]
+	at org.hibernate.impl.SessionImpl.flush(SessionImpl.java:1216) [hibernate-core-3.6.1.Final.jar:3.6.1.Final]
+	at org.hibernate.impl.SessionImpl.managedFlush(SessionImpl.java:383) [hibernate-core-3.6.1.Final.jar:3.6.1.Final]
+	at org.hibernate.transaction.JDBCTransaction.commit(JDBCTransaction.java:133) [hibernate-core-3.6.1.Final.jar:3.6.1.Final]
+	at org.springframework.orm.hibernate3.HibernateTransactionManager.doCommit(HibernateTransactionManager.java:657) [spring-orm-3.2.1.RELEASE.jar:3.2.1.RELEASE]
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.processCommit(AbstractPlatformTransactionManager.java:755) [spring-tx-3.2.1.RELEASE.jar:3.2.1.RELEASE]
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.commit(AbstractPlatformTransactionManager.java:724) [spring-tx-3.2.1.RELEASE.jar:3.2.1.RELEASE]
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.commitTransactionAfterReturning(TransactionAspectSupport.java:387) [spring-tx-3.2.1.RELEASE.jar:3.2.1.RELEASE]
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:120) [spring-tx-3.2.1.RELEASE.jar:3.2.1.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172) [spring-aop-3.2.1.RELEASE.jar:3.2.1.RELEASE]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:204) [spring-aop-3.2.1.RELEASE.jar:3.2.1.RELEASE]
+	at $Proxy19.update(Unknown Source) [na:na]
+	at com.app.manager.ea.api.ImpEa.initData(ImpEa.java:729) [classes/:na]
+	at com.app.ParentTest.init(ParentTest.java:47) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.6.0_27]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.6.0_27]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.6.0_27]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.6.0_27]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44) [junit-4.9.jar:na]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15) [junit-4.9.jar:na]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41) [junit-4.9.jar:na]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:27) [junit-4.9.jar:na]
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31) [junit-4.9.jar:na]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:292) [junit-4.9.jar:na]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50) [.cp/:na]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:na]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467) [.cp/:na]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683) [.cp/:na]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390) [.cp/:na]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197) [.cp/:na]
+Caused by: org.h2.jdbc.JdbcBatchUpdateException: Unique index or primary key violation: "PRIMARY_KEY_C9 ON PUBLIC.MANAGER_EA_RESOURCE_USER(RESOURCE_ID, USER_ID)"; SQL statement:
+insert into manager_ea_resource_user (resource_id, user_id) values (?, ?) [23505-167]
+	at org.h2.jdbc.JdbcPreparedStatement.executeBatch(JdbcPreparedStatement.java:1121) ~[h2-1.3.167.jar:1.3.167]
+	at org.apache.commons.dbcp.DelegatingStatement.executeBatch(DelegatingStatement.java:294) ~[commons-dbcp-1.2.1.jar:1.2.1]
+	at org.hibernate.jdbc.BatchingBatcher.doExecuteBatch(BatchingBatcher.java:70) ~[hibernate-core-3.6.1.Final.jar:3.6.1.Final]
+	at org.hibernate.jdbc.AbstractBatcher.executeBatch(AbstractBatcher.java:268) ~[hibernate-core-3.6.1.Final.jar:3.6.1.Final]
+	... 33 common frames omitted
+4768 [main] DEBUG com.app.EaCoreTest - admin resource numbers:0
+4768 [main] DEBUG com.app.ParentTest - 运行完毕
+4530 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+4905 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 number:0
+4905 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+4905 [main] DEBUG com.app.ParentTest - 初始化完毕:
+4937 [main] DEBUG com.app.EaCoreTest - admin resource numbers:8
+4937 [main] DEBUG com.app.EaCoreTest - admin resource numbers:8
+4937 [main] DEBUG com.app.ParentTest - 运行完毕
+5046 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5384 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 number:0
+5384 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+5384 [main] DEBUG com.app.ParentTest - 初始化完毕:
+5415 [main] DEBUG com.app.EaCoreTest - admin resource numbers:8
+5431 [main] DEBUG com.app.EaCoreTest - test resource numbers:0
+5431 [main] DEBUG com.app.ParentTest - 运行完毕
+4069 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+4366 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 number:0
+4366 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+4366 [main] DEBUG com.app.ParentTest - 初始化完毕:
+4382 [main] DEBUG com.app.EaCoreTest - admin resource numbers:8
+4397 [main] DEBUG com.app.EaCoreTest - test resource numbers:0
+4397 [main] DEBUG com.app.manager.ea.api.ImpEa - admin0
+4413 [main] DEBUG com.app.EaCoreTest - admin resource numbers:8
+4413 [main] DEBUG com.app.ParentTest - 运行完毕
+3685 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+3975 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 number:0
+3975 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+3975 [main] DEBUG com.app.ParentTest - 初始化完毕:
+3990 [main] DEBUG com.app.EaCoreTest - admin resource numbers:8
+4006 [main] DEBUG com.app.EaCoreTest - test resource numbers:0
+4006 [main] DEBUG com.app.manager.ea.api.ImpEa - admin0
+4022 [main] DEBUG com.app.EaCoreTest - admin resource numbers:8
+4022 [main] DEBUG com.app.manager.ea.api.ImpEa - test0
+4037 [main] DEBUG com.app.EaCoreTest - test resource numbers:8
+4037 [main] DEBUG com.app.ParentTest - 运行完毕
+3652 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+3934 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 number:0
+3934 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+3934 [main] DEBUG com.app.ParentTest - 初始化完毕:
+3949 [main] DEBUG com.app.EaCoreTest - admin resource numbers:8
+3965 [main] DEBUG com.app.manager.ea.api.ImpEa - admin0
+3981 [main] DEBUG com.app.EaCoreTest - admin resource numbers:8
+3981 [main] DEBUG com.app.EaCoreTest - test resource numbers:0
+3981 [main] DEBUG com.app.manager.ea.api.ImpEa - test0
+3981 [main] DEBUG com.app.EaCoreTest - test resource numbers:8
+3996 [main] DEBUG com.app.ParentTest - 运行完毕
+4607 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5013 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 重新加载后 number:0
+5013 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+5013 [main] DEBUG com.app.ParentTest - 初始化完毕:
+5029 [main] DEBUG com.app.EaCoreTest - admin resource numbers:8
+5060 [main] DEBUG com.app.manager.ea.api.ImpEa - admin0
+5060 [main] DEBUG com.app.EaCoreTest - admin resource numbers:8
+5076 [main] DEBUG com.app.EaCoreTest - test resource numbers:0
+5076 [main] DEBUG com.app.manager.ea.api.ImpEa - test0
+5091 [main] DEBUG com.app.EaCoreTest - test resource numbers:8
+5091 [main] DEBUG com.app.ParentTest - 运行完毕
+4895 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5290 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 重新加载后 number:0
+5290 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+5290 [main] DEBUG com.app.ParentTest - 初始化完毕:
+5321 [main] DEBUG com.app.EaCoreTest - admin resource numbers:8
+5321 [main] DEBUG com.app.manager.ea.api.ImpEa - admin0
+5337 [main] DEBUG com.app.EaCoreTest - admin resource numbers:8
+5352 [main] DEBUG com.app.EaCoreTest - test resource numbers:0
+5352 [main] DEBUG com.app.manager.ea.api.ImpEa - test0
+5368 [main] DEBUG com.app.EaCoreTest - test resource numbers:8
+5368 [main] DEBUG com.app.ParentTest - 运行完毕
+4905 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5436 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+5436 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+5436 [main] DEBUG com.app.ParentTest - 初始化完毕:
+5468 [main] DEBUG com.app.EaCoreTest - admin resource numbers:8
+5483 [main] DEBUG com.app.manager.ea.api.ImpEa - admin0
+5499 [main] DEBUG com.app.EaCoreTest - admin resource numbers:8
+5514 [main] DEBUG com.app.EaCoreTest - test resource numbers:0
+5514 [main] DEBUG com.app.manager.ea.api.ImpEa - test0
+5530 [main] DEBUG com.app.EaCoreTest - test resource numbers:8
+5530 [main] DEBUG com.app.ParentTest - 运行完毕
+5153 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5560 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+5560 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+5560 [main] DEBUG com.app.ParentTest - 初始化完毕:
+5591 [main] DEBUG com.app.EaCoreTest - admin resource numbers:8
+5607 [main] DEBUG com.app.manager.ea.api.ImpEa - admin0
+5622 [main] DEBUG com.app.EaCoreTest - admin resource numbers:8
+5638 [main] DEBUG com.app.EaCoreTest - test resource numbers:0
+5653 [main] DEBUG com.app.manager.ea.api.ImpEa - test0
+5653 [main] DEBUG com.app.EaCoreTest - test resource numbers:8
+5653 [main] DEBUG com.app.ParentTest - 运行完毕
+5169 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5545 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+5545 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+5545 [main] DEBUG com.app.ParentTest - 初始化完毕:
+5592 [main] DEBUG com.app.EaCoreTest - admin resource numbers:8
+5607 [main] DEBUG com.app.manager.ea.api.ImpEa - admin0
+5623 [main] DEBUG com.app.EaCoreTest - admin resource numbers:8
+5623 [main] DEBUG com.app.EaCoreTest - test resource numbers:0
+5638 [main] DEBUG com.app.manager.ea.api.ImpEa - test0
+5638 [main] DEBUG com.app.EaCoreTest - test resource numbers:8
+5638 [main] DEBUG com.app.ParentTest - 运行完毕
+4311 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+4593 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+4593 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+4624 [main] DEBUG com.app.SpringDaoTest - admin user 个数:2
+4655 [main] DEBUG com.app.SpringDaoTest - admin user:com.app.manager.ea.model.User@1af8502[id=1]
+4655 [main] DEBUG com.app.SpringDaoTest - tom
+4671 [main] INFO  com.app.SpringDaoTest - 测试结束
+4232 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+4467 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+4467 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+4498 [main] DEBUG com.app.SpringDaoTest - admin user 个数:2
+4529 [main] DEBUG com.app.SpringDaoTest - admin user:com.app.manager.ea.model.User@aa10fc[id=1]
+4545 [main] DEBUG com.app.SpringDaoTest - tom
+4623 [main] INFO  com.app.SpringDaoTest - 测试结束
+4592 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+4890 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+4905 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+4921 [main] DEBUG com.app.SpringDaoTest - admin user 个数:2
+4952 [main] DEBUG com.app.SpringDaoTest - admin user:com.app.manager.ea.model.User@1af8502[id=1]
+4952 [main] DEBUG com.app.SpringDaoTest - tom
+5046 [main] INFO  com.app.SpringDaoTest - 测试结束
+4342 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+4639 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+4639 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+4671 [main] DEBUG com.app.SpringDaoTest - admin user 个数:2
+4702 [main] DEBUG com.app.SpringDaoTest - admin user:com.app.manager.ea.model.User@455aa8[id=1]
+4702 [main] DEBUG com.app.SpringDaoTest - tom
+4717 [main] INFO  com.app.SpringDaoTest - 测试结束
+7772 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+8225 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+8225 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+8257 [main] INFO  com.app.SpringDaoTest - 测试结束
+5761 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+6091 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+6091 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+6106 [main] INFO  com.app.SpringDaoTest - 测试结束
+6262 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+6684 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+6684 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+6700 [main] INFO  com.app.SpringDaoTest - 测试结束
+5012 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5456 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+5456 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+5487 [main] INFO  com.app.SpringDaoTest - 测试结束
+6214 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+6729 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+6729 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+6761 [main] INFO  com.app.SpringDaoTest - 测试结束
+6013 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+6450 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+6466 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+6481 [main] INFO  com.app.SpringDaoTest - 测试结束
+6090 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+33030 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+35699 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+5421 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+46330 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+52712 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+55007 [main] INFO  com.app.SpringDaoTest - 测试结束
+5326 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+30491 [main] ERROR o.h.LazyInitializationException - failed to lazily initialize a collection of role: com.app.manager.ea.model.Resource.users, no session or session was closed
+org.hibernate.LazyInitializationException: failed to lazily initialize a collection of role: com.app.manager.ea.model.Resource.users, no session or session was closed
+	at org.hibernate.collection.AbstractPersistentCollection.throwLazyInitializationException(AbstractPersistentCollection.java:383) [hibernate-core-3.6.1.Final.jar:3.6.1.Final]
+	at org.hibernate.collection.AbstractPersistentCollection.throwLazyInitializationExceptionIfNotConnected(AbstractPersistentCollection.java:375) [hibernate-core-3.6.1.Final.jar:3.6.1.Final]
+	at org.hibernate.collection.AbstractPersistentCollection.readSize(AbstractPersistentCollection.java:122) [hibernate-core-3.6.1.Final.jar:3.6.1.Final]
+	at org.hibernate.collection.PersistentSet.size(PersistentSet.java:162) [hibernate-core-3.6.1.Final.jar:3.6.1.Final]
+	at com.app.manager.ea.api.ImpEa.initData(ImpEa.java:731) [classes/:na]
+	at com.app.SpringDaoTest.init(SpringDaoTest.java:52) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.6.0_27]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.6.0_27]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.6.0_27]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.6.0_27]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44) [junit-4.9.jar:na]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15) [junit-4.9.jar:na]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41) [junit-4.9.jar:na]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:27) [junit-4.9.jar:na]
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31) [junit-4.9.jar:na]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:292) [junit-4.9.jar:na]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50) [.cp/:na]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:na]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467) [.cp/:na]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683) [.cp/:na]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390) [.cp/:na]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197) [.cp/:na]
+66644 [main] INFO  com.app.SpringDaoTest - 测试结束
+5966 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5700 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+18620 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+23896 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+31949 [main] INFO  com.app.SpringDaoTest - 测试结束
+5296 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5608 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+5608 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+5670 [main] INFO  com.app.SpringDaoTest - 测试结束
+5607 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5966 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+5966 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+5998 [main] INFO  com.app.SpringDaoTest - 测试结束
+5795 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+6201 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+6201 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+6216 [main] INFO  com.app.SpringDaoTest - 测试结束
+5951 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+6434 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+6434 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+6465 [main] INFO  com.app.SpringDaoTest - 测试结束
+5217 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5561 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+5561 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+5576 [main] INFO  com.app.SpringDaoTest - 测试结束
+2687 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+2968 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+2968 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+5583 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+30735 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+43029 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+59988 [main] DEBUG com.app.testCase2 - admin resource numbers:8
+60003 [main] DEBUG com.app.manager.ea.api.ImpEa - admin0
+60035 [main] DEBUG com.app.testCase2 - admin resource numbers:8
+60097 [main] DEBUG com.app.testCase2 - test resource numbers:0
+60097 [main] DEBUG com.app.manager.ea.api.ImpEa - test0
+60113 [main] DEBUG com.app.testCase2 - test resource numbers:8
+6528 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+24018 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+25751 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+51870 [main] DEBUG com.app.testCase2 - admin resource numbers:8
+51886 [main] DEBUG com.app.manager.ea.api.ImpEa - admin0
+51918 [main] DEBUG com.app.testCase2 - admin resource numbers:8
+51918 [main] DEBUG com.app.testCase2 - test resource numbers:0
+51933 [main] DEBUG com.app.manager.ea.api.ImpEa - test0
+51949 [main] DEBUG com.app.testCase2 - test resource numbers:8
+5997 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+19214 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+19214 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+42793 [main] DEBUG com.app.testCase2 - admin resource numbers:8
+48303 [main] DEBUG com.app.manager.ea.api.ImpEa - admin0
+48459 [main] DEBUG com.app.testCase2 - admin resource numbers:8
+51128 [main] DEBUG com.app.testCase2 - test resource numbers:0
+66748 [main] DEBUG com.app.manager.ea.api.ImpEa - test0
+66826 [main] DEBUG com.app.testCase2 - test resource numbers:8
+5921 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+6451 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+6451 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+13505 [main] DEBUG com.app.testCase2 - admin resource numbers:8
+13522 [main] DEBUG com.app.manager.ea.api.ImpEa - admin0
+13538 [main] DEBUG com.app.testCase2 - admin resource numbers:8
+13553 [main] DEBUG com.app.testCase2 - test resource numbers:0
+13569 [main] DEBUG com.app.manager.ea.api.ImpEa - test0
+13569 [main] DEBUG com.app.testCase2 - test resource numbers:8
+6012 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+6481 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+6481 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+6512 [main] DEBUG com.app.testCase2 - admin resource numbers:8
+6528 [main] DEBUG com.app.manager.ea.api.ImpEa - admin0
+6543 [main] DEBUG com.app.testCase2 - admin resource numbers:8
+6559 [main] DEBUG com.app.testCase2 - test resource numbers:0
+6574 [main] DEBUG com.app.manager.ea.api.ImpEa - test0
+6590 [main] DEBUG com.app.testCase2 - test resource numbers:8
+5326 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5654 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+5654 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+5686 [main] DEBUG com.app.manager.ea.api.ImpEa - admin0
+5701 [main] DEBUG com.app.testCase2 - admin resource numbers:8
+5701 [main] DEBUG com.app.manager.ea.api.ImpEa - test0
+5701 [main] DEBUG com.app.testCase2 - test resource numbers:8
+4497 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+4810 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+4810 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+6136 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+6574 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+6574 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+6605 [main] DEBUG com.app.testCase2 - admin
+6605 [main] DEBUG com.app.testCase2 - admin
+6605 [main] DEBUG com.app.testCase2 - admin
+6605 [main] DEBUG com.app.testCase2 - admin
+6605 [main] DEBUG com.app.testCase2 - admin
+6605 [main] DEBUG com.app.testCase2 - admin
+6605 [main] DEBUG com.app.testCase2 - admin
+6605 [main] DEBUG com.app.testCase2 - admin
+6605 [main] DEBUG com.app.testCase2 - test
+5013 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5435 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+5435 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+5467 [main] DEBUG com.app.testCase2 - admin
+5467 [main] DEBUG com.app.testCase2 - admin
+5467 [main] DEBUG com.app.testCase2 - admin
+5467 [main] DEBUG com.app.testCase2 - admin
+5467 [main] DEBUG com.app.testCase2 - admin
+5467 [main] DEBUG com.app.testCase2 - admin
+5467 [main] DEBUG com.app.testCase2 - admin
+5467 [main] DEBUG com.app.testCase2 - admin
+5467 [main] DEBUG com.app.testCase2 - test
+4087 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+4354 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+4354 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+5997 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+6466 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+6466 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+6481 [main] DEBUG com.app.testCase2 - 系统管理
+6481 [main] DEBUG com.app.testCase2 - 组织架构管理
+6481 [main] DEBUG com.app.testCase2 - 岗位管理
+6481 [main] DEBUG com.app.testCase2 - 职位管理
+6497 [main] DEBUG com.app.testCase2 - 人员管理
+6497 [main] DEBUG com.app.testCase2 - 资源管理
+6497 [main] DEBUG com.app.testCase2 - 邮件服务器设置 
+6497 [main] DEBUG com.app.testCase2 - 系统参数 
+4965 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5388 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+5388 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+4965 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5356 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+5356 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+5372 [main] ERROR org.hibernate.hql.PARSER - line 1:8: unexpected token: *
+4062 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+4422 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+4422 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:8
+4437 [main] DEBUG com.app.testCase2 - 系统管理
+4437 [main] DEBUG com.app.testCase2 - 组织架构管理
+4437 [main] DEBUG com.app.testCase2 - 岗位管理
+4437 [main] DEBUG com.app.testCase2 - 职位管理
+4437 [main] DEBUG com.app.testCase2 - 人员管理
+4437 [main] DEBUG com.app.testCase2 - 资源管理
+4437 [main] DEBUG com.app.testCase2 - 邮件服务器设置 
+4437 [main] DEBUG com.app.testCase2 - 系统参数 
+6060 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+6499 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+6499 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:5
+6530 [main] DEBUG com.app.testCase2 - 系统管理
+6530 [main] DEBUG com.app.testCase2 - 组织架构管理
+6530 [main] DEBUG com.app.testCase2 - 岗位管理
+6530 [main] DEBUG com.app.testCase2 - 职位管理
+6530 [main] DEBUG com.app.testCase2 - 人员管理
+6530 [main] DEBUG com.app.testCase2 - 资源管理
+6530 [main] DEBUG com.app.testCase2 - 邮件服务器设置 
+6530 [main] DEBUG com.app.testCase2 - 系统参数 
+6109 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+6563 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+6563 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:5
+6594 [main] DEBUG com.app.testCase2 - 系统管理0
+6594 [main] DEBUG com.app.testCase2 - 组织架构管理0
+6594 [main] DEBUG com.app.testCase2 - 岗位管理0
+6594 [main] DEBUG com.app.testCase2 - 职位管理0
+6594 [main] DEBUG com.app.testCase2 - 人员管理0
+6594 [main] DEBUG com.app.testCase2 - 资源管理0
+6594 [main] DEBUG com.app.testCase2 - 邮件服务器设置 0
+6594 [main] DEBUG com.app.testCase2 - 系统参数 0
+4841 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5247 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+5247 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:5
+5278 [main] DEBUG com.app.testCase2 - admin
+5278 [main] DEBUG com.app.testCase2 - admin
+5278 [main] DEBUG com.app.testCase2 - admin
+5278 [main] DEBUG com.app.testCase2 - admin
+5278 [main] DEBUG com.app.testCase2 - admin
+5278 [main] DEBUG com.app.testCase2 - test
+4832 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5269 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+5269 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:5
+5301 [main] DEBUG com.app.testCase2 - 组织架构管理0
+5301 [main] DEBUG com.app.testCase2 - 系统管理0
+5301 [main] DEBUG com.app.testCase2 - 人员管理0
+5301 [main] DEBUG com.app.testCase2 - 职位管理0
+5301 [main] DEBUG com.app.testCase2 - 岗位管理0
+4923 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5236 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+5236 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:5
+5251 [main] ERROR org.hibernate.hql.PARSER - line 1:49: unexpected token: and
+5342 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5733 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+5733 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:5
+5749 [main] ERROR org.hibernate.hql.PARSER - line 1:51: unexpected token: and
+5730 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+6185 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+6185 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:5
+6200 [main] ERROR org.hibernate.hql.PARSER - line 1:55: unexpected token: and
+5154 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5654 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+5654 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:5
+5669 [main] ERROR org.hibernate.hql.PARSER - line 1:51: unexpected token: and
+4278 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+4638 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+4638 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:5
+4638 [main] ERROR org.hibernate.hql.PARSER - line 1:43: unexpected token: and
+4280 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+4624 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+4624 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:5
+4640 [main] DEBUG com.app.testCase2 - 组织架构管理0
+4640 [main] DEBUG com.app.testCase2 - 系统管理0
+4640 [main] DEBUG com.app.testCase2 - 人员管理0
+4640 [main] DEBUG com.app.testCase2 - 职位管理0
+4640 [main] DEBUG com.app.testCase2 - 岗位管理0
+5326 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5686 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+5686 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:5
+5717 [main] DEBUG com.app.testCase2 - 组织架构管理0
+5717 [main] DEBUG com.app.testCase2 - 系统管理0
+5717 [main] DEBUG com.app.testCase2 - 人员管理0
+5717 [main] DEBUG com.app.testCase2 - 职位管理0
+5717 [main] DEBUG com.app.testCase2 - 岗位管理0
+4654 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+4952 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+4952 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:5
+4967 [main] DEBUG com.app.testCase2 - 系统管理0
+4967 [main] DEBUG com.app.testCase2 - 组织架构管理0
+4967 [main] DEBUG com.app.testCase2 - 岗位管理0
+4967 [main] DEBUG com.app.testCase2 - 职位管理0
+4967 [main] DEBUG com.app.testCase2 - 人员管理0
+4967 [main] DEBUG com.app.testCase2 - 资源管理0
+4967 [main] DEBUG com.app.testCase2 - 邮件服务器设置 0
+4967 [main] DEBUG com.app.testCase2 - 系统参数 0
+5201 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5592 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+5592 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:5
+5779 [main] DEBUG com.app.testCase2 - 资源管理0
+5779 [main] DEBUG com.app.testCase2 - 邮件服务器设置 0
+5779 [main] DEBUG com.app.testCase2 - 系统参数 0
+4060 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+4342 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+4342 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:5
+4373 [main] DEBUG com.app.testCase2 - 系统管理0
+4373 [main] DEBUG com.app.testCase2 - 组织架构管理0
+4373 [main] DEBUG com.app.testCase2 - 岗位管理0
+4373 [main] DEBUG com.app.testCase2 - 职位管理0
+4389 [main] DEBUG com.app.testCase2 - 人员管理0
+4389 [main] DEBUG com.app.testCase2 - 资源管理0
+4389 [main] DEBUG com.app.testCase2 - 邮件服务器设置 0
+4389 [main] DEBUG com.app.testCase2 - 系统参数 0
+4983 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5374 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+5390 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:5
+4951 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5342 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+5342 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:5
+5374 [main] DEBUG com.app.testCase2 - 没有授权给用户的资源个数：3
+4265 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+4594 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+4594 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:5
+4640 [main] DEBUG com.app.testCase2 - 没有授权给用户的资源个数：3
+4656 [main] DEBUG com.app.testCase2 - 没有授权给角色的资源个数：8
+4185 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+4545 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+4545 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:5
+4592 [main] DEBUG com.app.testCase2 - 授权给用户的资源个数：5
+4623 [main] DEBUG com.app.testCase2 - 授权给角色的资源个数：0
+4857 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5217 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+5233 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:5
+5264 [main] DEBUG com.app.testCase2 - 授权给用户的资源个数：5
+5280 [main] DEBUG com.app.testCase2 - 授权给角色的资源个数：0
+5326 [main] DEBUG com.app.testCase2 - 授权给角色组的资源个数：0
+4794 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5155 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+5155 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:5
+5186 [main] DEBUG com.app.testCase2 - 授权给用户的资源个数：5
+5202 [main] DEBUG com.app.testCase2 - 授权给角色的资源个数：0
+5217 [main] DEBUG com.app.testCase2 - 授权给角色组的资源个数：0
+5233 [main] ERROR org.hibernate.hql.PARSER - line 1:221: unexpected token: r
+5637 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5997 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+5997 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:5
+6044 [main] DEBUG com.app.testCase2 - 授权给用户的资源个数：5
+6059 [main] DEBUG com.app.testCase2 - 授权给角色的资源个数：0
+6091 [main] DEBUG com.app.testCase2 - 授权给角色组的资源个数：0
+6137 [main] DEBUG com.app.testCase2 - 没有授权给三种媒体的资源个数：8
+4653 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+4998 [main] DEBUG com.app.manager.ea.api.ImpEa - r0 的user number:0
+4998 [main] DEBUG com.app.manager.ea.api.ImpEa - admin number:5
+5044 [main] DEBUG com.app.testCase2 - 授权给用户的资源个数：5
+5060 [main] DEBUG com.app.testCase2 - 授权给角色的资源个数：0
+5076 [main] DEBUG com.app.testCase2 - 授权给角色组的资源个数：0
+5107 [main] DEBUG com.app.testCase2 - 没有授权给三种媒体的资源个数：3
+6121 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+6558 [main] DEBUG com.app.manager.ea.api.ImpEa - admin0
+6621 [main] DEBUG com.app.testCase2 - admin resource numbers:8
+6636 [main] DEBUG com.app.manager.ea.api.ImpEa - test0
+6636 [main] DEBUG com.app.testCase2 - test resource numbers:0
+4939 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+5315 [main] DEBUG com.app.manager.ea.api.ImpEa - admin0
+5377 [main] DEBUG com.app.testCase2 - admin resource numbers:8
+5377 [main] DEBUG com.app.manager.ea.api.ImpEa - test0
+5393 [main] DEBUG com.app.testCase2 - test resource numbers:0
+15787 [main] DEBUG com.app.manager.ea.api.ImpEa - 初始化数据
+16507 [main] DEBUG com.app.manager.ea.api.ImpEa - admin0
+16585 [main] DEBUG com.app.manager.ea.api.ImpEa - test0
+5736 [main] DEBUG c.app.manager.ea.demo.ImpItCompany - 初始化数据
+8048 [main] DEBUG com.app.manager.ea.demo.ParentDemo - organizeId=8
+8048 [main] DEBUG com.app.manager.ea.demo.ParentDemo - rolegroupIdString=6
+8127 [main] DEBUG com.app.manager.ea.demo.ParentDemo - 员工
+8158 [main] DEBUG com.app.manager.ea.demo.ParentDemo - organizeId=10
+8158 [main] DEBUG com.app.manager.ea.demo.ParentDemo - rolegroupIdString=6
+8174 [main] DEBUG com.app.manager.ea.demo.ParentDemo - 员工
+8205 [main] DEBUG com.app.manager.ea.demo.ParentDemo - organizeId=11
+8205 [main] DEBUG com.app.manager.ea.demo.ParentDemo - rolegroupIdString=6
+8236 [main] DEBUG com.app.manager.ea.demo.ParentDemo - 员工
+8252 [main] DEBUG com.app.manager.ea.demo.ParentDemo - organizeId=16
+8252 [main] DEBUG com.app.manager.ea.demo.ParentDemo - rolegroupIdString=11-12
+8283 [main] DEBUG com.app.manager.ea.demo.ParentDemo - 组长
+8298 [main] DEBUG com.app.manager.ea.demo.ParentDemo - 成员
+8314 [main] DEBUG com.app.manager.ea.demo.ParentDemo - organizeId=17
+8314 [main] DEBUG com.app.manager.ea.demo.ParentDemo - rolegroupIdString=11-12
+8345 [main] DEBUG com.app.manager.ea.demo.ParentDemo - 组长
+8376 [main] DEBUG com.app.manager.ea.demo.ParentDemo - 成员
+8392 [main] DEBUG com.app.manager.ea.demo.ParentDemo - organizeId=18
+8392 [main] DEBUG com.app.manager.ea.demo.ParentDemo - rolegroupIdString=11-12
+8408 [main] DEBUG com.app.manager.ea.demo.ParentDemo - 组长
+8439 [main] DEBUG com.app.manager.ea.demo.ParentDemo - 成员
+8470 [main] DEBUG com.app.manager.ea.demo.ParentDemo - organizeId=19
+8470 [main] DEBUG com.app.manager.ea.demo.ParentDemo - rolegroupIdString=11-12
+8486 [main] DEBUG com.app.manager.ea.demo.ParentDemo - 组长
+8517 [main] DEBUG com.app.manager.ea.demo.ParentDemo - 成员
+8532 [main] DEBUG com.app.manager.ea.demo.ParentDemo - organizeId=20
+8532 [main] DEBUG com.app.manager.ea.demo.ParentDemo - rolegroupIdString=11-12
+8548 [main] DEBUG com.app.manager.ea.demo.ParentDemo - 组长
+8579 [main] DEBUG com.app.manager.ea.demo.ParentDemo - 成员
+8610 [main] DEBUG com.app.manager.ea.demo.ParentDemo - organizeId=21
+8610 [main] DEBUG com.app.manager.ea.demo.ParentDemo - rolegroupIdString=11-12
+8626 [main] DEBUG com.app.manager.ea.demo.ParentDemo - 组长
+8657 [main] DEBUG com.app.manager.ea.demo.ParentDemo - 成员
+8673 [main] DEBUG com.app.manager.ea.demo.ParentDemo - organizeId=22
+8673 [main] DEBUG com.app.manager.ea.demo.ParentDemo - rolegroupIdString=11-12
+8704 [main] DEBUG com.app.manager.ea.demo.ParentDemo - 组长
+8735 [main] DEBUG com.app.manager.ea.demo.ParentDemo - 成员
+8751 [main] DEBUG com.app.manager.ea.demo.ParentDemo - organizeId=23
+8751 [main] DEBUG com.app.manager.ea.demo.ParentDemo - rolegroupIdString=11-12
+8860 [main] DEBUG com.app.manager.ea.demo.ParentDemo - 组长
+8891 [main] DEBUG com.app.manager.ea.demo.ParentDemo - 成员
+8907 [main] DEBUG com.app.manager.ea.demo.ParentDemo - organizeId=24
+8907 [main] DEBUG com.app.manager.ea.demo.ParentDemo - rolegroupIdString=11-12
+8938 [main] DEBUG com.app.manager.ea.demo.ParentDemo - 组长
+8969 [main] DEBUG com.app.manager.ea.demo.ParentDemo - 成员
+9000 [main] DEBUG com.app.manager.ea.demo.ParentDemo - organizeId=25
+9000 [main] DEBUG com.app.manager.ea.demo.ParentDemo - rolegroupIdString=11-12
+9016 [main] DEBUG com.app.manager.ea.demo.ParentDemo - 组长
+9047 [main] DEBUG com.app.manager.ea.demo.ParentDemo - 成员
+9063 [main] DEBUG com.app.manager.ea.demo.ParentDemo - organizeId=26
+9063 [main] DEBUG com.app.manager.ea.demo.ParentDemo - rolegroupIdString=11-12
+9095 [main] DEBUG com.app.manager.ea.demo.ParentDemo - 组长
+9126 [main] DEBUG com.app.manager.ea.demo.ParentDemo - 成员
+9157 [main] DEBUG com.app.manager.ea.demo.ParentDemo - organizeId=10
+9157 [main] DEBUG com.app.manager.ea.demo.ParentDemo - rolegroupIdString=7
+9189 [main] DEBUG com.app.manager.ea.demo.ParentDemo - APR接口人
+9205 [main] DEBUG com.app.manager.ea.demo.ParentDemo - organizeId=11
+9205 [main] DEBUG com.app.manager.ea.demo.ParentDemo - rolegroupIdString=7
+9221 [main] DEBUG com.app.manager.ea.demo.ParentDemo - APR接口人
+9283 [main] DEBUG com.app.manager.ea.api.ImpEa - admin0
+5816 [main] DEBUG com.app.manager.ea.api.ImpEa - test0

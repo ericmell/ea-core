@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+    "http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+    <!--  
+	<constant name="struts.objectFactory"
+		value="org.apache.struts2.spring.StrutsSpringObjectFactory" />
+	<constant name="struts.devMode" value="true" />
+
+	<constant name="struts.action.extension" value="do" />
+	-->
+	
+	<constant name="struts.multipart.maxSize" value="100000000000"/>
+	<constant name="struts.i18n.reload" value="false" />
+	<constant name="struts.i18n.encoding" value="UTF-8" />
+    <constant name="struts.devMode" value="false" />
+    <constant name="struts.configuration.xml.reload" value="true" />
+    <constant name="struts.custom.i18n.resources" value="globalMessages" />
+    <constant name="struts.action.extension" value="do,," />
+
+    <constant name="struts.convention.result.path" value="/" />
+	<package name="app" 
+		extends="struts-default">
+		<interceptors>
+			<interceptor name="authenticatesite" class="com.app.ea.interceptor.AuthenticateInterceptorClient"/>
+			<interceptor-stack name="authenticate-interceptor">
+				<interceptor-ref name="authenticatesite"/>                
+				<interceptor-ref name="defaultStack"/>
+			</interceptor-stack>		
+	   </interceptors>	
+		<global-results>
+			<result name="unauthenticated.user" type="redirect">/website/siteadmin/index.ftl</result>
+			<result name="can_not_access"         type="dispatcher">/can_not_access.ftl</result>
+			
+		</global-results> 		
+		
+        <action name="*_*_*"   class="{2}Action"  method="{3}" >
+           <!--   <interceptor-ref name="authenticate-interceptor"/>   -->
+            <result name="success">app/{1}/{2}/{3}.ftl</result>
+            <result name="list">app/{1}/{2}/list.ftl</result>
+            <result name="complete_task">app/common/activiti/complete_task.ftl</result>
+        </action> 
+       <!-- 
+          <action name="*_*"  class="{1}Action"  method="{2}" >
+            <result name="success">{1}/{2}.ftl</result>
+            <result name="list">{1}/list.ftl</result>
+            <result name="complete_task">activiti/complete_task.ftl</result>
+        </action> 
+         -->
+       
+	</package>
+
+	<package name="oa" namespace="/" extends="struts-default">  
+   		<action name="login" class="loginAction" method="execute">
+   		    <result name="admin">pframe.ftl</result>
+			<result name="success">frame.ftl</result>
+			<result name="fail">login.ftl</result>
+			<result name="ajaxResetPassword">ajax_result_info.ftl</result>
+			
+			
+			
+		</action>	
+		<action name="menu" class="menuAction" method="execute">
+			<result name="success">menu.ftl</result>
+		</action>
+	</package>
+		
+</struts>

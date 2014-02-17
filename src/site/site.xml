@@ -1,0 +1,31 @@
+<?xml version="1.0"  encoding="GBK"?>
+
+
+<project name="UEAAC-BASE">
+
+    <skin>
+        <groupId>org.apache.maven.skins</groupId>
+        <artifactId>maven-default-skin</artifactId>
+        <version>1.0</version>
+    </skin>
+    
+  <publishDate format="dd MMMM yyyy HH:mm"/>
+  <body>
+  
+    <menu name="上一层项目">
+        <item name="ueaac-base-parent" href="../parent/index.html"/>
+	</menu>    
+    <menu name="common项目介绍">
+	    <item name="项目介绍" href="index.html"/>
+	    <item name="api文档" href="apidocs/index.html"/>
+	    <item name="依赖关系" href="dependencies.html"/>
+	    <item name="测试报告" href="surefire-report.html"/>
+	    <item name="相关人员" href="team-list.html"/>
+
+	</menu>
+
+   
+    
+  </body>
+  
+</project>
